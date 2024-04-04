@@ -9,3 +9,7 @@ The Max LED Lighting project addresses the challenge of efficiently connecting L
 - **Graphical Representation:** Offers a user-friendly interface for visualizing LED connections. The graphical representation is detailed for a small number of LEDs, adapting to a simpler version for larger LED and wire connections.
 
 The project provides a comprehensive solution, visualizing decision-making and demonstrating LED connections through a user-friendly interface.
+
+
+## Main Page:
+![LED1](https://github.com/hanadiasfour/Max-LED-Lighting/assets/91291021/ec6584f9-ece9-4e49-a395-600ca4650bc8)
