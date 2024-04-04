@@ -13,3 +13,25 @@ The project provides a comprehensive solution, visualizing decision-making and d
 
 ## Main Page:
 ![LED1](https://github.com/hanadiasfour/Max-LED-Lighting/assets/91291021/ec6584f9-ece9-4e49-a395-600ca4650bc8)
+
+
+<br>
+
+## Dynamic Programming Table:
+![LED2](https://github.com/hanadiasfour/Max-LED-Lighting/assets/91291021/b9dcb647-dde0-4b65-a105-568c61cc02d9)
+
+
+<br>
+
+## LED Connections (small number of LED):
+![LED3](https://github.com/hanadiasfour/Max-LED-Lighting/assets/91291021/159c95ec-f295-4d08-b7a5-caa7f6251cfc)
+
+
+<br>
+
+## LED Connections (large number of LED):
+![LED4](https://github.com/hanadiasfour/Max-LED-Lighting/assets/91291021/5e11ece9-e46d-464c-9547-7f1d4c273fae)
+
+
+
+
