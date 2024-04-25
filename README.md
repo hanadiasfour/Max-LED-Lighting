@@ -1,7 +1,7 @@
 # Max LED Lighting project
 
 ## **Description:**
-Dynamic programming was used to optimize connecting the longest consecutive LEDs sequence to a power sources without wire crossing. The battery board is numbered 1 through N, where N is number of LEDs. The algorithm used was Longest Common Subsequence (LCS) algorithm between the LEDs sequence and battery numbering.
+Dynamic programming was used to optimize connecting the longest consecutive LEDs sequence to a power sources without wire crossing. The battery board is numbered 1 through N, where N is the number of LEDs. The algorithm used was Longest Common Subsequence (LCS) algorithm between the LEDs sequence and battery numbering.
 
 **GUI Details:**
 - **DP Table:** Displays the decision-making process and connections.
